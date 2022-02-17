@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HLong25
+- 👀 I’m interested in HTML, CSS, Batch, Arduino, Siri Shortcuts
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: Send me an email or a message on discord
